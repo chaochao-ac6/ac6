@@ -1,0 +1,151 @@
+# Translation of Themes - Blossom PinIt in French (France)
+# This file is distributed under the same license as the Themes - Blossom PinIt package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-02 20:12:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Blossom PinIt\n"
+
+#. Description of the theme
+msgid "Blossom PinIt is a child theme of Blossom Pin Free WordPress theme. This theme features a Pinterest styled layout helpful to create a visually appealing and lively blog for female bloggers. You can create a fully responsive and mobile-friendly blog using this theme without writing a single liine of code. This theme can be the perfect choice for female bloggers who are serious about blogging and wants to share their expert fashion tips, favorite recipes or create a lifestyle, travel, food, beauty, make-up, coaching, wedding, portfolio, personal, girly, parenting or cooking blog. The beautifully placed Instagram section can be used to show your Instagram account and increase your followers. The well placed Newsletter section will help you to grow your email list and keep in touch with your visitors. Furthermore, it is SEO friendly, Schema friendly, and speed optimized. The theme is translation ready and supports RTL and WooCommerce plugin for your utmost benefit. In addition, Blossom PinIt is backed by world-class, one-on-one support, and a super active team of developers and designers ready to help! Check demo: https://blossomthemes.com/theme-demo/?theme=blossom-pinit, read documentation: https://docs.blossomthemes.com/docs/blossom-pinit/, and get support: https://blossomthemes.com/support-ticket/"
+msgstr "Blossom PinIt est un thème enfant gratuit du thème WordPress Blossom Pin. Ce thème dispose d’une mise en page de style Pinterest utile pour créer un blog visuellement attrayant et convivial pour les blogueuses féminines. Vous pouvez créer un blog entièrement responsive et compatible mobile en utilisant ce thème sans écrire un seul ligne de code. Ce thème peut être le choix parfait pour les blogueuses avisées qui veulent partager leurs conseils experts de mode, recettes préférées ou créer un blog de style de vie, voyage, nourriture, beauté, maquillage, coaching, mariage, portfolio, personnel, girly, parental ou de cuisine. La section Instagram joliment agencée peut être utilisée pour afficher votre compte Instagram et augmenter vos abonnés. La section newsletter bien placée vous aidera à faire fructifier votre liste d’e-mails et à rester en contact avec vos visiteurs. En outre, il est optimisé pour le SEO, le balisage Schema.org et la vitesse. Le thème est prêt pour la traduction et prend en charge RTL et l’extension WooCommerce pour votre plus grand bénéfice. En plus, Blossom PinIt est soutenu par un support de classe mondiale et une équipe super active de développeurs et de designers prêts à aider ! Découvrez la démo : https://blossomthemes.com/theme-demo/?theme=blossom-pinit, lire la documentation : https://docs.blossomthemes.com/docs/blossom-pinit/ et obtenir du support : https://blossomthemes.com/support-ticket/"
+
+#. Theme Name of the theme
+msgid "Blossom PinIt"
+msgstr "Blossom PinIt"
+
+#: functions.php:316 functions.php:322
+msgid "search form toggle"
+msgstr "Basculer sur formulaire de recherche"
+
+#: functions.php:762
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions.php:762
+msgid " Powered by %s"
+msgstr "Propulsé par %s"
+
+#: functions.php:759
+msgid " Blossom PinIt | Developed By "
+msgstr " Blossom PinIt | Développé By "
+
+#: functions.php:425
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:424
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:423
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:345
+msgid "Discover More"
+msgstr "Découvrir la suite"
+
+#: functions.php:344
+msgid "Discover how people in the community looks create pins to get their attention?"
+msgstr "Découvrir à quoi ressemblent les gens de la communauté qui créent des épingles pour attirer leur attention ?"
+
+#: functions.php:343
+msgid "Wondering how your peers are using social media?"
+msgstr "Vous vous demandez comment vos pairs utilisent les réseaux sociaux ?"
+
+#: functions.php:256
+msgid "Choose the layout of the slider for your site."
+msgstr "Choisissez la mise en page du diaporama pour votre site."
+
+#: functions.php:234 functions.php:255
+msgid "Slider Layout"
+msgstr "Mise en page du diaporama"
+
+#: functions.php:221
+msgid "it is the layout for header."
+msgstr "Ceci est la mise en page pour l’en-tête."
+
+#: functions.php:199 functions.php:220
+msgid "Header Layout"
+msgstr "Mise en page d'en-tête"
+
+#: functions.php:181
+msgid "Change the font size of your site."
+msgstr "Changez la taille de police du titre de votre site."
+
+#: functions.php:180
+msgid "Font Size"
+msgstr "Taille de police"
+
+#: functions.php:158
+msgid "Secondary font of the site."
+msgstr "Police secondaire du site."
+
+#: functions.php:157
+msgid "Secondary Font"
+msgstr "Police secondaire"
+
+#: functions.php:136
+msgid "Primary font of the site."
+msgstr "Police principale du site."
+
+#: functions.php:135
+msgid "Primary Font"
+msgstr "Police principale"
+
+#: functions.php:115
+msgid "Typography"
+msgstr "Typographie"
+
+#: functions.php:107
+msgid "Customize Typography & Background Image"
+msgstr "Personnaliser la typographie et l’image d’arrière-plan"
+
+#: functions.php:106
+msgid "Appearance Settings"
+msgstr "Réglages d'apparence"
+
+#: functions.php:93
+msgid "Primary color of the theme."
+msgstr "Couleur primaire du thème."
+
+#: functions.php:92
+msgid "Primary Color"
+msgstr "Couleur primaire"
+
+#: functions.php:67
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Lien de documentation : %1$sCliquez ici.%2$s"
+
+#: functions.php:65
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Lien de démo : %1$sCliquez ici.%2$s"
+
+#: functions.php:52
+msgid "Demo & Documentation"
+msgstr "Démo et documentation"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:760
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/downloads/blossom-pinit"
+msgstr "https://blossomthemes.com/downloads/blossom-pinit"

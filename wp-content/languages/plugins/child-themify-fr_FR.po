@@ -1,0 +1,114 @@
+# Translation of Plugins - Child Themify - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Child Themify - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-12 12:39:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Child Themify - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "John P. Bloch"
+msgstr "John P. Bloch"
+
+#. Description of the plugin/theme
+msgid "Create child themes at the click of a button."
+msgstr "Créer un thème enfant en un clic."
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/johnpbloch/child-themify"
+msgstr "https://github.com/johnpbloch/child-themify"
+
+#. Plugin Name of the plugin/theme
+msgid "Child Themify"
+msgstr "Child Themify"
+
+#: includes/plugin.php:305
+msgid "Delete"
+msgstr "Supprimer"
+
+#: includes/plugin.php:300
+msgid "Preview"
+msgstr "Prévisualiser"
+
+#: includes/plugin.php:299
+msgid "Live Preview"
+msgstr "Prévisualisation en ligne"
+
+#: includes/plugin.php:297
+msgid "Activate"
+msgstr "Activer"
+
+#: includes/plugin.php:291
+msgid "Customize"
+msgstr "Personnaliser"
+
+#: includes/plugin.php:284
+msgid "Tags:"
+msgstr "Mots-clés"
+
+#: includes/plugin.php:280
+msgid "This is a child theme of %s."
+msgstr "Thème enfant de %s"
+
+#: includes/plugin.php:273
+msgid "Update Available"
+msgstr "Mise à jour disponible"
+
+#: includes/plugin.php:269
+msgid "By %s"
+msgstr "Par %s"
+
+#: includes/plugin.php:268
+msgid "Version: %s"
+msgstr "Version : %s"
+
+#: includes/plugin.php:266
+msgid "Current Theme"
+msgstr "Thème actif"
+
+#: includes/plugin.php:251
+msgid "Close overlay"
+msgstr "Fermer"
+
+#: includes/plugin.php:250
+msgid "Show next theme"
+msgstr "Afficher le thème suivant"
+
+#: includes/plugin.php:249
+msgid "Show previous theme"
+msgstr "Afficher le thème précédent"
+
+#: includes/legacy.php:157 includes/plugin.php:208
+msgid "Your child theme was created successfully."
+msgstr "Création du thème enfant réussie"
+
+#: includes/legacy.php:129 includes/plugin.php:180
+msgid "Could not access the filesystem!"
+msgstr "Accès impossible au dossier système !"
+
+#: includes/legacy.php:108 includes/legacy.php:181 includes/plugin.php:158
+#: includes/plugin.php:317
+msgid "Create a child theme"
+msgstr "Créer un thème enfant"
+
+#: includes/legacy.php:44 includes/plugin.php:76
+msgid "Let's go!"
+msgstr "Action !"
+
+#: includes/legacy.php:42 includes/plugin.php:74
+msgid "Name your child theme"
+msgstr "Nommez le thème enfant"
+
+#: includes/legacy.php:39 includes/plugin.php:71
+msgctxt "The placeholder is for a theme's name"
+msgid "Create a child theme from %s"
+msgstr "Créer un thème enfant de %s"
+
+#: includes/legacy.php:13 includes/plugin.php:14
+msgid "You do not have permission to do that!"
+msgstr "Vous n'avez pas les permissions pour cette action !"
